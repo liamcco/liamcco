@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on West Expert, an interactive way to explore the public transport system in Gothenburg
+- 🌱 I’m currently learning Swift, Next/React/TypeScript
+- 📫 How to reach me: @liamcottonco on instagram
 
 <!--
 **liamcco/liamcco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
